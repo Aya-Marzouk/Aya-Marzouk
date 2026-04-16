@@ -1,4 +1,4 @@
-# Hi, I'm Aya Ahmed  👋
+# Hi, I'm Aya Ahmed 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F72E9E&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;SQL+%7C+Excel+%7C+Power+BI+%7C+Python;From+Raw+Data+to+Business+Impact" alt="Typing SVG" />
@@ -58,8 +58,16 @@ I’m a Data Analyst passionate about transforming raw data into meaningful insi
 
 ---
 
-### 📫 Contact Me
+### 📤 My Social Accounts
 
-* LinkedIn: https://www.linkedin.com/in/aya-a7med/
-* Email: aya.ibrahim.official.2@gmail.com
+<p align="left">
 
+  <a href="mailto:aya.ibrahim.official.2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/aya-a7med/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+</p>

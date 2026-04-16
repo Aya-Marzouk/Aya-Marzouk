@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi, I'm Aya Ahmed  👋
 
-<!--
-**Aya-Marzouk/Aya-Marzouk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | Business Intelligence
 
-Here are some ideas to get you started:
+I’m a Data Analyst passionate about transforming raw data into meaningful insights that drive smarter business decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔍 About Me
+
+* 📊 I specialize in analyzing and interpreting complex data to uncover trends and patterns
+* 📈 Experienced in building interactive dashboards and reports for decision-making
+* 🧠 Strong focus on data cleaning, transformation, and automation
+* 🚀 Continuously learning new tools and improving my analytical thinking
+* 🎯 Interested in Business Intelligence, customer behavior analysis, and sales performance
+
+---
+
+### 🛠️ Skills & Tools
+
+**📊 Data Analysis**
+
+* SQL
+* Excel
+* Python
+
+**📈 Data Visualization**
+
+* Power BI
+* Tableau
+* Data Visualization Principles
+
+**⚙️ Data Processing**
+
+* Power Query
+* DAX
+* Data Cleaning & Transformation
+
+**💻 Tools & Technologies**
+
+* Jupyter Notebook
+* Git & GitHub
+* Figma
+* Canva
+
+---
+
+### 📌 Projects
+
+* 🚗 Road Accident Analysis
+* 📞 Call Center Analysis
+* ☕ Coffee Sales Analysis
+* 🏦 Banque Misr Analysis
+* 🧃 Nestlé Nespresso Analysis
+* 📊 Sales Analysis
+
+---
+
+### 📫 Contact Me
+
+* LinkedIn: https://www.linkedin.com/in/aya-a7med/
+* Email: aya.ibrahim.official.2@gmail.com
+

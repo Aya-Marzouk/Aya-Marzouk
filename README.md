@@ -49,10 +49,10 @@ I’m a Data Analyst passionate about transforming raw data into meaningful insi
 
 ### 📌 Projects
 
+* 🏦 Banque Misr Analysis
 * 🚗 Road Accident Analysis
 * 📞 Call Center Analysis
 * ☕ Coffee Sales Analysis
-* 🏦 Banque Misr Analysis
 * 🧃 Nestlé Nespresso Analysis
 * 📊 Sales Analysis
 

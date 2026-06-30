@@ -47,15 +47,35 @@ I’m a Data Analyst passionate about transforming raw data into meaningful insi
 
 ---
 
-### 📌 Projects
+## 🚀 Featured Projects
 
-* 🏦 Banque Misr Analysis
-* 🚗 Road Accident Analysis
-* 📞 Call Center Analysis
-* ☕ Coffee Sales Analysis
-* 🧃 Nestlé Nespresso Analysis
-* 📊 Sales Analysis
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-9_Projects-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-Dashboard-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL_Server-End--to--End_Project-red?style=for-the-badge"/>
+</p>
 
+---
+
+### 📂 Projects
+
+✨ 🏦 Banque Misr Analysis
+
+✨ 🚗 Road Accident Analysis
+
+✨ 📞 Call Center Analysis
+
+✨ ☕ Coffee Sales Analysis
+
+✨ 🧃 Nestlé Nespresso Analysis
+
+✨ 📈 Sales Performance Analysis
+
+✨ 📡 Nova Telecom Marketing Dashboard
+
+✨ 🛒 Retail Analytics Dashboard
+
+✨ 📉 Market Flow Analytics (Tableau)
 ---
 
 ### 📤 My Social Accounts

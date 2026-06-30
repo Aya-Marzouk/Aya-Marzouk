@@ -1,30 +1,10 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Aya Ibrahim
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,25:00D4FF,50:6C63FF,75:9D4EDD,100:00F5FF&height=260&section=header&text=Aya%20Ibrahim&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=36&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&multiline=false&width=1000&lines=✨+Data+Analyst+%26+Business+Intelligence;⚡+Power+BI+Developer;📊+SQL+%7C+Tableau+%7C+DAX;🚀+Interactive+Dashboards;💎+HTML+Animated+Power+BI+Reports"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00F5FF,30:7B61FF,60:8A2BE2,100:00F5FF&text=Welcome%20To%20My%20Portfolio&fontSize=44&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=35&duration=2500&pause=900&color=00F5FF&center=true&vCenter=true&width=950&lines=✨+Data+Analyst;📊+Power+BI+Developer;🚀+Business+Intelligence;⚡+SQL+%7C+DAX+%7C+Tableau;💎+Interactive+Dashboard+Designer"/>
 
 </div>
-
----
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/PROFILE_VIEWS-00F5FF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/DATA_ANALYST-7B61FF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/POWER_BI-FFD700?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/SQL_SERVER-E53935?style=for-the-badge&logo=microsoftsqlserver"/>
-
-<img src="https://img.shields.io/badge/TABLEAU-E97627?style=for-the-badge&logo=tableau"/>
-
-</p>
 
 ---
 
@@ -34,29 +14,35 @@
 
 <td width="55%">
 
-# 👩‍💻 About Me
+# 👋 Hello there!
 
-✨ Passionate about transforming data into business insights.
+I'm **Aya Ibrahim**
 
-📊 Building modern dashboards using Power BI.
+### 🚀 Data Analyst
 
-⚡ SQL • DAX • Tableau • Power Query
+I transform raw data into interactive dashboards and meaningful business insights.
 
-🎨 Creating HTML Animated Visuals inside Power BI.
+## 💎 Specialized In
 
-📈 Turning numbers into stories.
+✔ Power BI
 
-🚀 Always learning new BI technologies.
+✔ SQL Server
+
+✔ Tableau
+
+✔ DAX
+
+✔ Power Query
+
+✔ HTML Animated Dashboards
+
+✔ Data Storytelling
 
 </td>
 
-<td width="45%">
+<td width="45%" align="center">
 
-<p align="center">
-
-<img width="360" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"/>
-
-</p>
+<img width="390" src="https://raw.githubusercontent.com/rahul-jha98/README-Resources/master/techstack.gif"/>
 
 </td>
 

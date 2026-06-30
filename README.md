@@ -47,45 +47,16 @@ I’m a Data Analyst passionate about transforming raw data into meaningful insi
 
 ---
 
-## 🚀 Portfolio
+<p align="center">
 
-🟨━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🟨
+<img src="https://img.shields.io/badge/🏦_Banque_Misr-gold?style=for-the-badge"/>
 
-### 🏦 Banque Misr Analysis
-> Banking Performance Dashboard
+<img src="https://img.shields.io/badge/📞_Call_Center-blue?style=for-the-badge"/>
 
-🔗 View Project →
+<img src="https://img.shields.io/badge/📡_Nova_Telecom-red?style=for-the-badge"/>
 
----
+<img src="https://img.shields.io/badge/🛒_Retail_Analytics-green?style=for-the-badge"/>
 
-### 📡 Nova Telecom
-> Marketing Performance Dashboard
-
-🔗 View Project →
-
----
-
-### 🛒 Retail Analytics
-> End-to-End SQL + Power BI
-
-🔗 View Project →
-
----
-
-### 📉 Market Flow Analytics
-> Tableau Dashboard
-
-🔗 View Project →
-### 📤 My Social Accounts
-
-<p align="left">
-
-  <a href="mailto:aya.ibrahim.official.2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/aya-a7med/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<img src="https://img.shields.io/badge/📉_Market_Flow-orange?style=for-the-badge"/>
 
 </p>

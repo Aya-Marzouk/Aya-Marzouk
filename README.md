@@ -47,87 +47,35 @@ I’m a Data Analyst passionate about transforming raw data into meaningful insi
 
 ---
 
-# 🚀 Explore My Analytics Projects
+## 🚀 Portfolio
 
-> Turning raw data into meaningful business insights.
+🟨━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🟨
 
-<table>
-<tr>
-<td>🏦 Banking</td>
-<td>📞 Customer Service</td>
-<td>🛒 Retail</td>
-</tr>
+### 🏦 Banque Misr Analysis
+> Banking Performance Dashboard
 
-<tr>
-<td>
+🔗 View Project →
 
-### Banque Misr
-💳 Banking Analytics
+---
 
-</td>
+### 📡 Nova Telecom
+> Marketing Performance Dashboard
 
-<td>
+🔗 View Project →
 
-### Call Center
-☎️ Performance Dashboard
+---
 
-</td>
+### 🛒 Retail Analytics
+> End-to-End SQL + Power BI
 
-<td>
+🔗 View Project →
 
-### Retail Analytics
-🛍️ End-to-End BI Project
+---
 
-</td>
-</tr>
+### 📉 Market Flow Analytics
+> Tableau Dashboard
 
-<tr>
-<td>
-
-### Road Accident
-🚗 Safety Analytics
-
-</td>
-
-<td>
-
-### Coffee Sales
-☕ Sales Dashboard
-
-</td>
-
-<td>
-
-### Market Flow
-📊 Tableau Dashboard
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### Nova Telecom
-📡 Marketing Dashboard
-
-</td>
-
-<td>
-
-### Nespresso
-🧃 Consumer Analytics
-
-</td>
-
-<td>
-
-### Sales Analysis
-📈 Business Dashboard
-
-</td>
-</tr>
-
-</table>
+🔗 View Project →
 ### 📤 My Social Accounts
 
 <p align="left">

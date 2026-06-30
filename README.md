@@ -47,37 +47,87 @@ I’m a Data Analyst passionate about transforming raw data into meaningful insi
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Explore My Analytics Projects
 
-<p>
-  <img src="https://img.shields.io/badge/Power_BI-9_Projects-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-Dashboard-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL_Server-End--to--End_Project-red?style=for-the-badge"/>
-</p>
+> Turning raw data into meaningful business insights.
 
----
+<table>
+<tr>
+<td>🏦 Banking</td>
+<td>📞 Customer Service</td>
+<td>🛒 Retail</td>
+</tr>
 
-### 📂 Projects
+<tr>
+<td>
 
-✨ 🏦 Banque Misr Analysis
+### Banque Misr
+💳 Banking Analytics
 
-✨ 🚗 Road Accident Analysis
+</td>
 
-✨ 📞 Call Center Analysis
+<td>
 
-✨ ☕ Coffee Sales Analysis
+### Call Center
+☎️ Performance Dashboard
 
-✨ 🧃 Nestlé Nespresso Analysis
+</td>
 
-✨ 📈 Sales Performance Analysis
+<td>
 
-✨ 📡 Nova Telecom Marketing Dashboard
+### Retail Analytics
+🛍️ End-to-End BI Project
 
-✨ 🛒 Retail Analytics Dashboard
+</td>
+</tr>
 
-✨ 📉 Market Flow Analytics (Tableau)
----
+<tr>
+<td>
 
+### Road Accident
+🚗 Safety Analytics
+
+</td>
+
+<td>
+
+### Coffee Sales
+☕ Sales Dashboard
+
+</td>
+
+<td>
+
+### Market Flow
+📊 Tableau Dashboard
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### Nova Telecom
+📡 Marketing Dashboard
+
+</td>
+
+<td>
+
+### Nespresso
+🧃 Consumer Analytics
+
+</td>
+
+<td>
+
+### Sales Analysis
+📈 Business Dashboard
+
+</td>
+</tr>
+
+</table>
 ### 📤 My Social Accounts
 
 <p align="left">

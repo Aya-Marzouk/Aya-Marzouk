@@ -21,6 +21,16 @@ and enabling smarter data-driven decision-making.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aya-Marzouk&bg_color=0d1117&color=C026D3&line=A855F7&point=F472B6&hide_border=true"/>
 
 </div>
+
+<p align="center">
+Turning raw data into meaningful insights and interactive dashboards
+that empower businesses to make smarter decisions.
+</p>
+
+<p align="center">
+Specialized in <strong>SQL</strong>, <strong>Power BI</strong>, <strong>Tableau</strong>,
+<strong>Data Modeling</strong>, and <strong>Business Intelligence</strong>.
+</p>
 ## 🛠️ Tech Stack & Core Skills
 
 ### 📊 Business Intelligence & Visualization

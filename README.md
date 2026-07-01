@@ -1,11 +1,8 @@
 <div align="center">
 
-<h1 align="center">
-  Hi, I'm Aya Ahmed
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
-</h1>
-<img
-src="https://readme-typing-svg.demolab.com?font=Urbanist&weight=300&size=22&duration=5000&pause=2000&color=DB2777&center=true&vCenter=true&width=900&lines=Data+Analyst+%E2%80%A2+Business+Intelligence+Analyst;Power+BI+Developer+%E2%80%A2+SQL+Developer;Transforming+Data+Into+Business+Value"/>
+# Hi, I'm Aya Ahmed 👋
+
+<img src="https://readme-typing-svg.demolab.com?font=Manrope&weight=400&size=23&duration=4200&pause=1500&color=D946EF&center=true&vCenter=true&width=800&height=50&lines=Data+Analyst+•+Business+Intelligence;Power+BI+•+SQL+•+Tableau;Turning+Data+Into+Business+Insights"/>
 
 </div>
 

@@ -5,10 +5,9 @@
 </h1>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Manrope&weight=400&size=23&duration=4200&pause=1500&color=D946EF&center=true&vCenter=true&width=800&height=50&lines=Data+Analyst+%E2%80%A2+Business+Intelligence;Power+BI+%E2%80%A2+SQL+%E2%80%A2+Tableau;Turning+Data+Into+Business+Insights"/>
+src="https://readme-typing-svg.demolab.com?font=Outfit&weight=300&size=24&duration=4500&pause=1800&color=C026D3&center=true&vCenter=true&width=850&height=55&lines=Data+Analyst;Business+Intelligence+Analyst;Power+BI+Developer;Turning+Data+Into+Business+Insights"/>
 
 </div>
-
 ---
 
 ## 🛠️ Tech Stack & Core Skills

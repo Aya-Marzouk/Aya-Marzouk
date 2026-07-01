@@ -4,21 +4,22 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;SQL+%7C+Excel+%7C+Power+BI+%7C+Python;From+Raw+Data+to+Business+Impact" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-sale7"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/mohamed-saleh-01"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
-  <a href="mailto:mohamed284saleh@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://drive.google.com/file/d/1aRVRMIF1rfUUrkSM90czjYkDCnUfmSWV/view?usp=drivesdk" target="_blank"><img alt="CV" src="https://img.shields.io/badge/CV-View%20Resume-yello?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
-  <a href="#" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Under%20Development-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=2500&pause=1200&color=A855F7&center=true&vCenter=true&multiline=true&width=900&height=140&lines=Turning+Raw+Data+Into+Business+Value;Building+Interactive+Power+BI+Dashboards;Transforming+Data+Into+Actionable+Insights;Helping+Businesses+Make+Smarter+Decisions" />
+
+</div>
+
+<br>
+
+<p align="center" width="80%">
+
+I'm <b>Aya Ahmed</b>, a passionate <b>Data Analyst</b> specializing in
+Business Intelligence, SQL, Power BI, Tableau, and Data Modeling.
+I transform complex datasets into interactive dashboards and actionable insights
+that empower organizations to make smarter, data-driven decisions.
+
 </p>
-
----
-
-## 🚀 About Me
-
-I'm Mohamed Saleh, a Data Analyst focused on transforming raw data into meaningful business insights.  
-
-Currently working on real-world data projects focused on Business Intelligence, Marketing, and Financial Analytics, as well as performance analysis. Experienced in transforming raw datasets into strategic insights through SQL querying, data modeling, and interactive dashboard development using Power BI. Passionate about supporting data-driven decision-making across marketing campaigns, customer behavior analysis, and financial performance tracking.
 
 ---
 ## 🛠 Top Technical Skills & Tools

@@ -34,75 +34,49 @@ Passionate about transforming data into meaningful insights and building interac
 ---
 <!-- ========================= Featured Projects ========================= -->
 
-<h2 align="center">
-  🚀 <b>Featured Projects</b> ✨
-</h2>
+<h2 align="center">🚀 Featured Projects</h2>
+
+<p align="center">
+Real-world Data Analytics & Business Intelligence projects built using <b>Power BI</b>, <b>Tableau</b>, <b>Excel</b>, and <b>SQL</b>.
+</p>
 
 ---
 
 # 📊 Power BI Projects
 
-### 🏦 Banque Misr Dashboard
+## 🏦 Banque Misr Dashboard
 
 <p>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data%20Modeling-6C63FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DAX-FFB000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/DAX-7B61FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Power%20Query-00A651?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data%20Modeling-5B5EA6?style=flat-square"/>
+<img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
-📌 Interactive financial dashboard for KPI tracking, business performance analysis, and executive reporting.
+📌 Developed a financial dashboard to analyze banking KPIs, revenue, profitability, and executive performance using interactive visualizations.
 
 ---
 
-### 📡 Nova Telecom Dashboard
+## 📡 Nova Telecom Dashboard
 
 <p>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data%20Cleaning-00C9A7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Modeling-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/DAX-7B61FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Power%20Query-00A651?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data%20Cleaning-00C4B4?style=flat-square"/>
+<img src="https://img.shields.io/badge/KPI%20Dashboard-0096FF?style=flat-square"/>
 </p>
 
-📌 Telecom performance dashboard with marketing insights, KPIs, and customer analysis.
+📌 Built a telecom dashboard to monitor marketing performance, customer insights, and business KPIs.
 
 ---
 
-### 🛒 Retail Analytics Dashboard
+## 🛒 Retail Analytics Dashboard
 
 <p>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data%20Cleaning-00C9A7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Modeling-6C63FF?style=for-the-badge"/>
-</p>
-
-📌 Retail sales dashboard analyzing revenue, categories, customer behavior, and KPIs.
-
----
-
-# 📈 Tableau Projects
-
-### 📊 Market Flow Analytics
-
-<p>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data%20Cleaning-00C9A7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Modeling-6C63FF?style=for-the-badge"/>
-</p>
-
-📌 Interactive Tableau dashboard for market flow analysis, trends, and business insights.
-
----
-
-# 📑 Excel Projects
-
-### ☕ Nestlé Nespresso Dashboard
-
-<p>
-<img src="https://img.shields.io/badge/Excel-217346?style=
-
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img
 ## 📤 Let's Connect
 
 <p align="left">

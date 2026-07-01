@@ -1,26 +1,10 @@
 <div align="center">
 
-<h1>
-  👋 Hi, I'm <b>Aya Ahmed</b>
-</h1>
+<h1>Hi, I'm Aya Ahmed 👋</h1>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=28&duration=2800&pause=800&color=7C3AED&center=true&vCenter=true&random=false&width=900&lines=Data+Analyst;Business+Intelligence+Analyst;Power+BI+Developer;SQL+%7C+Power+Query+%7C+DAX;Data+Visualization+%7C+Dashboard+Design;Turning+Data+Into+Business+Insights"
-  alt="Typing Animation"
+src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&width=800&height=140&lines=Data+Analyst;Business+Intelligence+Analyst;Power+BI+Developer;SQL+%7C+Power+Query+%7C+Tableau"
 />
-
-<br><br>
-
-<p align="center" width="700">
-
-Transforming raw data into meaningful insights through
-<strong>SQL</strong>,
-<strong>Power BI</strong>,
-<strong>Tableau</strong>,
-<strong>Data Modeling</strong>,
-and interactive dashboards.
-
-</p>
 
 </div>
 

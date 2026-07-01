@@ -34,69 +34,109 @@ Passionate about transforming data into meaningful insights and building interac
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=80&section=header&text=Featured%20Projects&fontColor=ffffff&fontSize=30"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=8A2BE2&text=Featured%20Projects&fontAlign=50&fontAlignY=35&fontColor=ffffff&animation=twinkling&fontSize=42"/>
 </p>
 
-### ☕ Nestlé Nespresso Sales Dashboard
-> 📊 **Power BI • SQL • Excel • DAX**
-
-🔹 Built an interactive dashboard to analyze sales performance, monitor KPIs, and identify top-performing products.
-
----
-
-### 🏦 Banque Misr Financial Analytics
-> 📊 **Power BI • SQL • Data Modeling**
-
-🔹 Designed a financial dashboard to track revenue, expenses, profitability, and key financial KPIs.
-
----
-
-### ☕ Coffee Sales Analysis
-> 📊 **Power BI • Excel • SQL**
-
-🔹 Analyzed sales trends, customer behavior, product performance, and revenue growth using interactive dashboards.
-
----
-
-### 📞 Call Center Performance Analysis
-> 📊 **Power BI • Excel**
-
-🔹 Evaluated call center performance by analyzing response time, customer satisfaction, and agent productivity.
-
----
-
-### 🚗 Road Accident Analysis
-> 📊 **Power BI • Excel**
-
-🔹 Explored accident patterns, identified high-risk locations, and created dashboards to support road safety decisions.
-
----
-
-### 📈 Market Flow Analytics
-> 📊 **Power BI • SQL**
-
-🔹 Built dashboards to analyze market trends, business performance, and operational KPIs.
-
----
-
-### 🛍️ Retail Analytics Dashboard
-> 📊 **Power BI • SQL • Excel**
-
-🔹 Analyzed retail sales, profitability, customer purchasing behavior, and product category performance.
-
----
-
-### 📡 Nova Telecom Marketing Dashboard
-> 📊 **Power BI • SQL • DAX**
-
-🔹 Developed a telecom marketing dashboard to monitor campaign performance, customer acquisition, and business KPIs.
 <div align="center">
 
-### ✨ More Projects Coming Soon...
-
-🚀 Always building new dashboards • 📊 Exploring data • 💡 Solving business problems
+✨ **Projects that showcase my skills in Data Analysis, Business Intelligence, SQL, Power BI, Tableau, and Excel.**
 
 </div>
+
+---
+
+## ☕ Nestlé Nespresso Sales Dashboard
+
+📊 **Tech Stack:** `Power BI` • `SQL` • `Excel` • `DAX`
+
+📝 **Overview**
+- Built an interactive dashboard to monitor sales performance and KPIs.
+- Analyzed product categories and customer purchasing behavior.
+- Created dynamic visualizations to support business decisions.
+
+🎯 **Key Skills**
+`Data Cleaning` • `Data Modeling` • `DAX` • `Dashboard Design`
+
+---
+
+## 🏦 Banque Misr Financial Analytics
+
+📊 **Tech Stack:** `Power BI` • `SQL` • `Data Modeling`
+
+📝 **Overview**
+- Designed a financial dashboard to monitor revenue, expenses, and profitability.
+- Developed KPIs for executive reporting.
+- Built an interactive dashboard for financial analysis.
+
+🎯 **Key Skills**
+`Financial Analysis` • `DAX` • `Business Intelligence`
+
+---
+
+## ☕ Coffee Sales Analysis
+
+📊 **Tech Stack:** `Excel` • `Power BI` • `SQL`
+
+📝 **Overview**
+- Performed sales trend analysis.
+- Identified top-selling products and seasonal trends.
+- Built an interactive sales dashboard.
+
+🎯 **Key Skills**
+`Power Query` • `Excel` • `Data Visualization`
+
+---
+
+## 📞 Call Center Performance Dashboard
+
+📊 **Tech Stack:** `Power BI` • `Excel`
+
+📝 **Overview**
+- Evaluated agent performance.
+- Analyzed response time and customer satisfaction.
+- Tracked operational KPIs.
+
+🎯 **Key Skills**
+`KPI Analysis` • `Dashboard Design`
+
+---
+
+## 🚗 Road Accident Analysis
+
+📊 **Tech Stack:** `Power BI` • `Excel`
+
+📝 **Overview**
+- Explored accident trends.
+- Identified accident hotspots.
+- Built dashboards to support road safety insights.
+
+🎯 **Key Skills**
+`Data Analysis` • `Reporting`
+
+---
+
+## 📈 Market Flow Analytics
+
+📊 **Tech Stack:** `Power BI` • `SQL`
+
+📝 **Overview**
+- Monitored market trends.
+- Built executive dashboards.
+- Tracked business performance KPIs.
+
+🎯 **Key Skills**
+`Business Analysis` • `Power BI`
+
+---
+
+## 🛍️ Retail Analytics Dashboard
+
+📊 **Tech Stack:** `Power BI` • `SQL` • `Excel`
+
+📝 **Overview**
+- Analyzed sales and profitability.
+- Compared category performance.
+- Created interactive reports</div>
 ## 📤 Let's Connect
 
 <p align="left">

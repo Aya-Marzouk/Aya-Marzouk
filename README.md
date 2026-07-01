@@ -32,12 +32,11 @@ Passionate about transforming data into meaningful insights and building interac
 - **KPI Development**
 
 ---
-<!-- ========================= Featured Projects ========================= -->
 
-<h2 align="center">🚀 Featured Projects</h2>
+ <h2 align="center">🚀 Featured Projects</h2>
 
 <p align="center">
-Real-world Data Analytics & Business Intelligence projects built using <b>Power BI</b>, <b>Tableau</b>, <b>Excel</b>, and <b>SQL</b>.
+Real-world Business Intelligence & Data Analytics projects built with Power BI, Tableau, Excel and SQL.
 </p>
 
 ---
@@ -47,36 +46,104 @@ Real-world Data Analytics & Business Intelligence projects built using <b>Power 
 ## 🏦 Banque Misr Dashboard
 
 <p>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/DAX-7B61FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Power%20Query-00A651?style=flat-square"/>
-<img src="https://img.shields.io/badge/Data%20Modeling-5B5EA6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/DAX-6F42C1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Power_Query-00B050?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data_Modeling-6C63FF?style=flat-square"/>
 <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
-📌 Developed a financial dashboard to analyze banking KPIs, revenue, profitability, and executive performance using interactive visualizations.
+📌 Financial performance dashboard with KPIs, banking insights and executive reporting.
 
 ---
 
 ## 📡 Nova Telecom Dashboard
 
 <p>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/DAX-7B61FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Power%20Query-00A651?style=flat-square"/>
-<img src="https://img.shields.io/badge/Data%20Cleaning-00C4B4?style=flat-square"/>
-<img src="https://img.shields.io/badge/KPI%20Dashboard-0096FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/DAX-6F42C1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Power_Query-00B050?style=flat-square"/>
+<img src="https://img.shields.io/badge/KPI_Dashboard-0EA5E9?style=flat-square"/>
+<img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
-📌 Built a telecom dashboard to monitor marketing performance, customer insights, and business KPIs.
+📌 Telecom marketing dashboard tracking customer performance and business KPIs.
 
 ---
 
-## 🛒 Retail Analytics Dashboard
+## 🛍️ Retail Analytics Dashboard
 
 <p>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-<img src="https://img
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/DAX-6F42C1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data_Modeling-6C63FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Business_Intelligence-0066CC?style=flat-square"/>
+<img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+</p>
+
+📌 Retail sales dashboard analyzing revenue, products, categories and profitability.
+
+---
+
+# 📈 Tableau Projects
+
+## 📊 Market Flow Analytics
+
+<p>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data_Visualization-3F51B5?style=flat-square"/>
+<img src="https://img.shields.io/badge/Business_Intelligence-0066CC?style=flat-square"/>
+<img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+</p>
+
+📌 Interactive Tableau dashboard for market flow analysis and business trends.
+
+---
+
+# 📑 Excel Projects
+
+## ☕ Nestlé Nespresso Dashboard
+
+<p>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_Query-00B050?style=flat-square"/>
+<img src="https://img.shields.io/badge/Pivot_Tables-F39C12?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data_Cleaning-00C4B4?style=flat-square"/>
+</p>
+
+📌 End-to-end sales dashboard with KPIs, customer insights and business reporting.
+
+---
+
+## ☕ Coffee Sales Analysis
+
+<p>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pivot_Tables-F39C12?style=flat-square"/>
+<img src="https://img.shields.io/badge/Charts-4285F4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data_Cleaning-00C4B4?style=flat-square"/>
+</p>
+
+📌 Sales analysis dashboard showing revenue trends, product performance and customer behavior.
+
+---
+
+## 📞 Call Center Analysis
+
+<p>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pivot_Tables-F39C12?style=flat-square"/>
+<img src="https://img.shields.io/badge/KPI_Analysis-0096FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data_Cleaning-00C4B4?style=flat-square"/>
+</p>
+
+📌 Call
+
+
+
+
+
+
 ## 📤 Let's Connect
 
 <p align="left">

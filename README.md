@@ -1,12 +1,11 @@
 <div align="center">
 
-<h1 style="font-weight:300;">
-  Hi, I'm Aya Ahmed 👋
+<h1>
+  Hi, I'm <b>Aya Ahmed</b> 👋
 </h1>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Manrope&weight=300&size=26&duration=2500&pause=1000&color=EC4899&center=true&vCenter=true&width=900&lines=Data+Analyst+%E2%80%A2+Business+Intelligence;Power+BI+%E2%80%A2+SQL+%E2%80%A2+Tableau;Turning+Data+Into+Business+Insights"
-/>
+src="https://readme-typing-svg.demolab.com?font=Manrope&weight=400&size=23&duration=4200&pause=1500&color=D946EF&center=true&vCenter=true&width=800&height=50&lines=Data+Analyst+%E2%80%A2+Business+Intelligence;Power+BI+%E2%80%A2+SQL+%E2%80%A2+Tableau;Turning+Data+Into+Business+Insights"/>
 
 </div>
 

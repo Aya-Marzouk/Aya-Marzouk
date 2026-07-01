@@ -2,8 +2,7 @@
 
 # Hi, I'm <b>Aya Ahmed</b> 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Data+Analyst;Business+Analyst;SQL+%7C+Power+BI+%7C+Tableau+%7C+Excel;Turning+Data+Into+Business+Insights" />
-
+https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Data+Analyst;Business+Analyst;SQL+%7C+Power+BI+%7C+Tableau+%7C+Excel;Turning+Data+Into+Business+Insights
 <p align="center">
 Passionate about transforming data into meaningful insights and building interactive dashboards that support better business decisions.
 </p>

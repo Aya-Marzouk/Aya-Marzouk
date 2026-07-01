@@ -32,77 +32,77 @@ Passionate about transforming data into meaningful insights and building interac
 - **KPI Development**
 
 ---
-# 🚀 Featured Projects
+<!-- ========================= Featured Projects ========================= -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Featured+Projects+🚀"/>
-</p>
+<h2 align="center">
+  🚀 <b>Featured Projects</b> ✨
+</h2>
 
 ---
 
 # 📊 Power BI Projects
 
-## 🏦 Banque Misr Dashboard
+### 🏦 Banque Misr Dashboard
 
 <p>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data%20Cleaning-00B894?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Modeling-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Modeling-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DAX-FFB000?style=for-the-badge"/>
 </p>
 
-📌 Interactive financial dashboard for monitoring KPIs, revenue, and business performance.
+📌 Interactive financial dashboard for KPI tracking, business performance analysis, and executive reporting.
 
 ---
 
-## 📡 Nova Telecom Dashboard
+### 📡 Nova Telecom Dashboard
 
 <p>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data%20Cleaning-00B894?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Modeling-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Cleaning-00C9A7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Modeling-6C63FF?style=for-the-badge"/>
 </p>
 
-📌 Marketing performance dashboard with customer insights and KPI tracking.
+📌 Telecom performance dashboard with marketing insights, KPIs, and customer analysis.
 
 ---
 
-## 🛍 Retail Analytics Dashboard
+### 🛒 Retail Analytics Dashboard
 
 <p>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data%20Cleaning-00B894?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Modeling-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Cleaning-00C9A7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Modeling-6C63FF?style=for-the-badge"/>
 </p>
 
-📌 Retail dashboard analyzing sales, profit, products, and customer performance.
+📌 Retail sales dashboard analyzing revenue, categories, customer behavior, and KPIs.
 
 ---
 
-# 📈 Tableau Project
+# 📈 Tableau Projects
 
-## 📊 Market Flow Analytics
+### 📊 Market Flow Analytics
 
 <p>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data%20Cleaning-00B894?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Modeling-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Cleaning-00C9A7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Modeling-6C63FF?style=for-the-badge"/>
 </p>
 
-📌 Interactive Tableau dashboard for market flow analysis and business trends.
+📌 Interactive Tableau dashboard for market flow analysis, trends, and business insights.
 
 ---
 
 # 📑 Excel Projects
 
-## ☕ Nestlé Nespresso Dashboard
+### ☕ Nestlé Nespresso Dashboard
 
 <p>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=m
----
+<img src="https://img.shields.io/badge/Excel-217346?style=
+
 ## 📤 Let's Connect
 
 <p align="left">

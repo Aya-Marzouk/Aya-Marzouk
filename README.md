@@ -1,15 +1,77 @@
 <div align="center">
 
-# Aya Ahmed
+  <!-- العناوين المتحركة والمضيئة المتوافقة مع جيت هاب -->
+  <h3>
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=32&duration=1&pause=100000&color=A855F7&center=true&vCenter=true&width=500&lines=👋+WELCOME+TO+MY+PROFILE"/>
+  </h3>
 
-### Data Analyst • Business Intelligence Analyst
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=900&size=58&duration=1&pause=100000&color=FFFFFF&center=true&vCenter=true&width=700&lines=AYA+AHMED"/>
+  </h1>
 
-<p>
-Building data-driven solutions through SQL, Power BI, Tableau,
-and modern analytics.
-</p>
+  <h3>
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=2000&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=Data+Analyst;Business+Intelligence+Analyst;Power+BI+Developer;SQL+Server+Expert"/>
+  </h3>
+
+  <p><i>"Building data-driven solutions through SQL, Power BI, Tableau, and modern analytics"</i></p>
+
+  <!-- أزرار التواصل المباشرة والسريعة -->
+  <p align="center">
+    <a href="https://www.linkedin.com/in/aya-a7med/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="mailto:aya.ibrahim.official.2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  </p>
 
 </div>
+
+---
+
+## 🚀 About Me
+
+I'm **Aya Ahmed Marzouk**, a **Data Analyst & Business Intelligence professional** dedicated to transforming complex, raw datasets into meaningful, interactive dashboards and strategic business insights. 
+
+I focus on optimizing data models, creating advanced analytical metrics, and building high-contrast, user-friendly visual experiences that empower organizations to make precise, data-driven decisions.
+
+---
+
+## 🛠️ Tech Stack & Core Skills
+
+### 📊 Business Intelligence & Visualization
+* **Power BI** <img src="https://img.shields.io/badge/Advanced-F2C811?style=flat-square&logo=powerbi&logoColor=black"> — Advanced DAX, Interactive Dashboard Design, Custom UI & Navigation Systems.
+* **Tableau** <img src="https://img.shields.io/badge/Intermediate-E97627?style=flat-square&logo=tableau&logoColor=white"> — Sales Flow Analytics, Category Performance Trends.
+* **Excel** <img src="https://img.shields.io/badge/Advanced-217346?style=flat-square&logo=microsoft-excel&logoColor=white"> — Advanced Data Structuring, Power Query, Pivot Tables.
+
+### 🐍 Advanced Analytics & Engineering
+* **Data Engineering:** `SQL Server` • `ETL Pipelines` • `Star Schema Data Modeling`
+* **Python Ecosystem:** `Pandas` • `NumPy` • `Seaborn` • `Jupyter Notebook`
+* **Methodologies:** Data Cleaning, Statistical Performance Analysis, KPI Development.
+
+---
+
+## 📁 Featured Projects
+
+### ☕ Nespresso Sales Case Study
+* **Overview:** End-to-end data analysis utilizing real sales and product data. Performed rigorous data cleaning, established a robust data model, and built an interactive dashboard mapping core category insights.
+* **Tech:** `Excel` • `Data Transformation` • `Data Visualization`
+
+### 🏦 Bank Misr Analytics Task
+* **Overview:** Engineered a dynamic Power BI dashboard focused on tracking financial performance KPIs, financial insights, and business operations.
+* **Tech:** `Power BI` • `Data Modeling` • `DAX`
+
+### 🛰️ Nova Telecom Dashboard & Branding
+* **Overview:** Designed a comprehensive telecom analytics dashboard featuring creative, high-contrast UI design systems alongside custom customer churn metrics.
+* **Tech:** `Power BI` • `UI/UX Design` • `Business Intelligence`
+
+---
+
+### 📤 Let's Connect!
+<p align="left">
+  <a href="mailto:aya.ibrahim.official.2@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
+  </a> &nbsp;
+  <a href="https://www.linkedin.com/in/aya-a7med/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
+  </a>
+</p>
 ---
 ## 🛠 Top Technical Skills & Tools
 

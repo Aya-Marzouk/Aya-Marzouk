@@ -33,15 +33,15 @@ Passionate about transforming data into meaningful insights and building interac
 
 ---
 
+<!-- Featured Projects -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=8A2BE2&text=Featured%20Projects&fontAlign=50&fontAlignY=35&fontColor=ffffff&animation=twinkling&fontSize=42"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3500&pause=1200&color=8A2BE2&center=true&vCenter=true&repeat=true&width=650&lines=Featured+Projects;Real-World+Data+Analytics;Power+BI+%7C+SQL+%7C+Tableau+%7C+Excel" alt="Featured Projects"/>
 </p>
 
-<div align="center">
-
-✨ **Projects that showcase my skills in Data Analysis, Business Intelligence, SQL, Power BI, Tableau, and Excel.**
-
-</div>
+<p align="center">
+Building dashboards, analyzing data, and transforming business challenges into actionable insights.
+</p>
 
 ---
 
@@ -49,13 +49,15 @@ Passionate about transforming data into meaningful insights and building interac
 
 📊 **Tech Stack:** `Power BI` • `SQL` • `Excel` • `DAX`
 
-📝 **Overview**
-- Built an interactive dashboard to monitor sales performance and KPIs.
-- Analyzed product categories and customer purchasing behavior.
-- Created dynamic visualizations to support business decisions.
+✨ **Project Overview**
+- Built an interactive sales dashboard to monitor KPIs and business performance.
+- Analyzed customer behavior and product performance.
+- Designed executive-level visualizations for data-driven decision-making.
 
-🎯 **Key Skills**
+🎯 **Skills Applied**
 `Data Cleaning` • `Data Modeling` • `DAX` • `Dashboard Design`
+
+🔗 **Repository:** *(Add your repository link here)*
 
 ---
 
@@ -63,13 +65,15 @@ Passionate about transforming data into meaningful insights and building interac
 
 📊 **Tech Stack:** `Power BI` • `SQL` • `Data Modeling`
 
-📝 **Overview**
-- Designed a financial dashboard to monitor revenue, expenses, and profitability.
-- Developed KPIs for executive reporting.
-- Built an interactive dashboard for financial analysis.
+✨ **Project Overview**
+- Designed a financial dashboard for revenue, expenses, and profitability analysis.
+- Built dynamic KPIs for executive reporting.
+- Delivered business insights through interactive visualizations.
 
-🎯 **Key Skills**
-`Financial Analysis` • `DAX` • `Business Intelligence`
+🎯 **Skills Applied**
+`Financial Analysis` • `Business Intelligence` • `DAX`
+
+🔗 **Repository:** *(Add your repository link here)*
 
 ---
 
@@ -77,66 +81,10 @@ Passionate about transforming data into meaningful insights and building interac
 
 📊 **Tech Stack:** `Excel` • `Power BI` • `SQL`
 
-📝 **Overview**
-- Performed sales trend analysis.
-- Identified top-selling products and seasonal trends.
-- Built an interactive sales dashboard.
+✨ **Project Overview**
+- Performed sales
 
-🎯 **Key Skills**
-`Power Query` • `Excel` • `Data Visualization`
 
----
-
-## 📞 Call Center Performance Dashboard
-
-📊 **Tech Stack:** `Power BI` • `Excel`
-
-📝 **Overview**
-- Evaluated agent performance.
-- Analyzed response time and customer satisfaction.
-- Tracked operational KPIs.
-
-🎯 **Key Skills**
-`KPI Analysis` • `Dashboard Design`
-
----
-
-## 🚗 Road Accident Analysis
-
-📊 **Tech Stack:** `Power BI` • `Excel`
-
-📝 **Overview**
-- Explored accident trends.
-- Identified accident hotspots.
-- Built dashboards to support road safety insights.
-
-🎯 **Key Skills**
-`Data Analysis` • `Reporting`
-
----
-
-## 📈 Market Flow Analytics
-
-📊 **Tech Stack:** `Power BI` • `SQL`
-
-📝 **Overview**
-- Monitored market trends.
-- Built executive dashboards.
-- Tracked business performance KPIs.
-
-🎯 **Key Skills**
-`Business Analysis` • `Power BI`
-
----
-
-## 🛍️ Retail Analytics Dashboard
-
-📊 **Tech Stack:** `Power BI` • `SQL` • `Excel`
-
-📝 **Overview**
-- Analyzed sales and profitability.
-- Compared category performance.
-- Created interactive reports</div>
 ## 📤 Let's Connect
 
 <p align="left">

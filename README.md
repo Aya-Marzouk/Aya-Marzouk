@@ -1,5 +1,28 @@
-<div align="center"> <h1> Hi, I'm <b>Aya Ahmed</b> 👋 </h1> <img src="https://readme-typing-svg.demolab.com?font=Manrope&weight=400&size=23&duration=4200&pause=1500&color=D946EF&center=true&vCenter=true&width=800&height=50&lines=Data+Analyst+%E2%80%A2+Business+Intelligence;Power+BI+%E2%80%A2+SQL+%E2%80%A2+Tableau;Turning+Data+Into+Business+Insights"/> </div>
+<div align="center">
 
+# Hi, I'm <b>Aya Ahmed</b> 👋
+
+<img src="https://readme-typing-svg.demolab.com?font=Manrope&weight=400&size=24&duration=3500&pause=1200&color=C026D3&center=true&vCenter=true&width=850&lines=Data+Analyst+•+Business+Intelligence;Power+BI+Developer+•+SQL+Developer;Data+Visualization+•+Dashboard+Design;Turning+Data+Into+Business+Insights"/>
+
+<br>
+
+<p align="center" width="700">
+
+Passionate about transforming <b>raw data</b> into meaningful insights through
+<b>SQL</b>, <b>Power BI</b>, and <b>Tableau</b>.
+
+<br><br>
+
+I build interactive dashboards, optimize business performance, and deliver
+data-driven solutions that support smarter decision-making.
+
+</p>
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aya-Marzouk&bg_color=0d1117&color=C026D3&line=A855F7&point=F472B6&hide_border=true"/>
+
+</div>
 ## 🛠️ Tech Stack & Core Skills
 
 ### 📊 Business Intelligence & Visualization

@@ -1,23 +1,20 @@
 <div align="center">
 
-# 👋 Hello, I'm
+# Hi, I'm Aya Ahmed 👋
 
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=46&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=500&lines=AYA+AHMED"/>
-</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2500&pause=1000&color=1E3A8A&center=true&vCenter=true&width=700&lines=Data+Analyst;Business+Intelligence+Analyst;Power+BI+Developer;Turning+Data+into+Business+Insights"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=2200&pause=700&color=A855F7&center=true&vCenter=true&width=750&lines=Data+Analyst;Business+Intelligence+Analyst;Power+BI+Developer;SQL+Developer;Data+Visualization;Dashboard+Designer"/>
+<br>
 
-<br><br>
+<p width="700">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,24,30"/>
+Helping businesses make smarter decisions through <b>SQL</b>, <b>Power BI</b>,
+<b>Tableau</b>, and <b>Data Modeling</b>. I enjoy transforming raw data into
+interactive dashboards and meaningful insights that drive business growth.
 
-<br><br>
-
-💜 **Turning complex data into strategic business decisions through analytics, visualization, and storytelling.**
+</p>
 
 </div>
-
 ---
 ## 🛠 Top Technical Skills & Tools
 

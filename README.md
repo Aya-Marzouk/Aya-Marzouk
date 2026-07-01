@@ -1,68 +1,50 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&text=Aya%20Ahmed&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=gradient&customColorList=12,20,24,30"/>
+# Aya Ahmed
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=35&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=950&height=140&lines=✨+Data+Analyst;📊+Business+Intelligence+Developer;⚡+Power+BI+%7C+SQL+Server;🚀+Data+Modeling+%7C+ETL;💎+Tableau+%7C+DAX+%7C+Power+Query;🎨+HTML+Animated+Dashboards"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=34&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=Data+Analyst;Business+Intelligence+Developer;Power+BI+Developer;Data+Modeling+%7C+Data+Visualization;SQL+Server+%7C+Tableau+%7C+DAX;Apache+Airflow+%7C+Power+Query"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=5000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Turning+Raw+Data+Into+Meaningful+Insights"/>
+> **Transforming raw data into meaningful business decisions through modern analytics.**
 
 </div>
 
 ---
 
-# <img src="https://media.tenor.com/UtM5Nw9gQUsAAAAi/hand-wave.gif" width="35"> About Me
-
-```yaml
-Name: Aya Ahmed
-Role: Data Analyst | BI Developer
-
-Focus:
-  - Business Intelligence
-  - Dashboard Development
-  - Data Visualization
-  - ETL Pipelines
-  - Data Modeling
-
-Passion:
-  Turning complex datasets into interactive dashboards
-  that empower better business decisions.
-```
-
----
+## ⚡ My Analytics Toolkit
 
 <div align="center">
-
-## ⚡ Tech Stack
 
 <img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode,figma"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/DAX-1E88E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DAX-2563EB?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/Power_Query-00A86B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power_Query-00A86B?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/Data_Modeling-7B61FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow"/>
 
-<img src="https://img.shields.io/badge/Data_Visualization-00F5FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Modeling-7C3AED?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/ETL-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Visualization-06B6D4?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/ETL-8B5CF6?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel"/>
 
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva"/>
 
-<img src="https://img.shields.io/badge/HTML_Animation-FF5722?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma"/>
+
+<img src="https://img.shields.io/badge/HTML_in_Power_BI-E34F26?style=flat-square&logo=html5"/>
 
 </div>
 
@@ -70,10 +52,12 @@ Passion:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient"/>
-
-# 🚀 Featured Projects
-
-### Scroll Down 👇
+```text
+"Without data, you're just another person with an opinion."
+```
 
 </div>
+
+---
+
+# 🚀 Featured Projects

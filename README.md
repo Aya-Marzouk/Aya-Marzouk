@@ -33,108 +33,63 @@ Passionate about transforming data into meaningful insights and building interac
 
 ---
 
-# 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=80&section=header&text=Featured%20Projects&fontColor=ffffff&fontSize=30"/>
+</p>
 
 ### ☕ Nestlé Nespresso Sales Dashboard
-📊 **Tools:** Power BI • SQL • Excel • DAX
+> 📊 **Power BI • SQL • Excel • DAX**
 
-- 📈 Built an interactive sales dashboard to monitor KPIs.
-- 🛒 Analyzed product performance and customer purchasing trends.
-- 💡 Delivered business insights to support strategic decisions.
-
-</td>
-
-<td width="50%">
-
-### 🏦 Banque Misr Financial Analytics
-📊 **Tools:** Power BI • SQL • Data Modeling
-
-- 💰 Developed financial KPI dashboards.
-- 📉 Monitored revenue, expenses, and profitability.
-- 📊 Created executive-level reports for decision making.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### ☕ Coffee Sales Analysis
-📊 **Tools:** Excel • Power BI • SQL
-
-- 📦 Analyzed sales across products and regions.
-- 📈 Tracked monthly sales trends and revenue growth.
-- 🎯 Identified top-performing products.
-
-</td>
-
-<td width="50%">
-
-### 📞 Call Center Performance Analysis
-📊 **Tools:** Power BI • Excel
-
-- ☎️ Evaluated agent performance.
-- ⏱️ Analyzed call duration and response time.
-- 😊 Monitored customer satisfaction KPIs.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🚗 Road Accident Analysis
-📊 **Tools:** Power BI • Excel
-
-- 🚦 Explored accident trends and high-risk locations.
-- 📍 Identified accident hotspots.
-- 📉 Built interactive safety dashboards.
-
-</td>
-
-<td width="50%">
-
-### 📈 Market Flow Analytics
-📊 **Tools:** Power BI • SQL
-
-- 📊 Tracked market movement and performance.
-- 💹 Analyzed business growth trends.
-- 📌 Built KPI dashboards for market insights.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🛍️ Retail Analytics Dashboard
-📊 **Tools:** Power BI • SQL • Excel
-
-- 🛒 Analyzed retail sales performance.
-- 📦 Evaluated product categories.
-- 📈 Built dashboards for sales and profit analysis.
-
-</td>
-
-<td width="50%">
-
-### 📡 Nova Telecom Marketing Dashboard
-📊 **Tools:** Power BI • DAX • SQL
-
-- 📱 Designed a telecom marketing dashboard.
-- 📊 Monitored campaign performance.
-- 🎯 Tracked customer acquisition and KPIs.
-
-</td>
-</tr>
-</table>
+🔹 Built an interactive dashboard to analyze sales performance, monitor KPIs, and identify top-performing products.
 
 ---
 
+### 🏦 Banque Misr Financial Analytics
+> 📊 **Power BI • SQL • Data Modeling**
+
+🔹 Designed a financial dashboard to track revenue, expenses, profitability, and key financial KPIs.
+
+---
+
+### ☕ Coffee Sales Analysis
+> 📊 **Power BI • Excel • SQL**
+
+🔹 Analyzed sales trends, customer behavior, product performance, and revenue growth using interactive dashboards.
+
+---
+
+### 📞 Call Center Performance Analysis
+> 📊 **Power BI • Excel**
+
+🔹 Evaluated call center performance by analyzing response time, customer satisfaction, and agent productivity.
+
+---
+
+### 🚗 Road Accident Analysis
+> 📊 **Power BI • Excel**
+
+🔹 Explored accident patterns, identified high-risk locations, and created dashboards to support road safety decisions.
+
+---
+
+### 📈 Market Flow Analytics
+> 📊 **Power BI • SQL**
+
+🔹 Built dashboards to analyze market trends, business performance, and operational KPIs.
+
+---
+
+### 🛍️ Retail Analytics Dashboard
+> 📊 **Power BI • SQL • Excel**
+
+🔹 Analyzed retail sales, profitability, customer purchasing behavior, and product category performance.
+
+---
+
+### 📡 Nova Telecom Marketing Dashboard
+> 📊 **Power BI • SQL • DAX**
+
+🔹 Developed a telecom marketing dashboard to monitor campaign performance, customer acquisition, and business KPIs.
 <div align="center">
 
 ### ✨ More Projects Coming Soon...

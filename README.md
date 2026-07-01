@@ -32,58 +32,78 @@ Passionate about transforming data into meaningful insights and building interac
 - **KPI Development**
 
 ---
-
-<!-- Featured Projects -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3500&pause=1200&color=8A2BE2&center=true&vCenter=true&repeat=true&width=650&lines=Featured+Projects;Real-World+Data+Analytics;Power+BI+%7C+SQL+%7C+Tableau+%7C+Excel" alt="Featured Projects"/>
-</p>
+# 🚀 Featured Projects
 
 <p align="center">
-Building dashboards, analyzing data, and transforming business challenges into actionable insights.
+💼 <b>Real-World Data Analytics & Business Intelligence Projects</b><br>
+<sub>Power BI • SQL • Tableau • Excel • Data Visualization</sub>
 </p>
 
 ---
 
-## ☕ Nestlé Nespresso Sales Dashboard
+## ☕ Nestlé Nespresso Dashboard
 
-📊 **Tech Stack:** `Power BI` • `SQL` • `Excel` • `DAX`
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/> <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
 
-✨ **Project Overview**
-- Built an interactive sales dashboard to monitor KPIs and business performance.
-- Analyzed customer behavior and product performance.
-- Designed executive-level visualizations for data-driven decision-making.
-
-🎯 **Skills Applied**
-`Data Cleaning` • `Data Modeling` • `DAX` • `Dashboard Design`
-
-🔗 **Repository:** *(Add your repository link here)*
+📌 End-to-end sales analytics dashboard analyzing revenue, products, customer behavior, and business KPIs with interactive visualizations.
 
 ---
 
-## 🏦 Banque Misr Financial Analytics
+## 🏦 Banque Misr Dashboard
 
-📊 **Tech Stack:** `Power BI` • `SQL` • `Data Modeling`
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
 
-✨ **Project Overview**
-- Designed a financial dashboard for revenue, expenses, and profitability analysis.
-- Built dynamic KPIs for executive reporting.
-- Delivered business insights through interactive visualizations.
-
-🎯 **Skills Applied**
-`Financial Analysis` • `Business Intelligence` • `DAX`
-
-🔗 **Repository:** *(Add your repository link here)*
+📌 Financial dashboard for monitoring revenue, profitability, and executive KPIs using advanced DAX and data modeling.
 
 ---
 
 ## ☕ Coffee Sales Analysis
 
-📊 **Tech Stack:** `Excel` • `Power BI` • `SQL`
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
 
-✨ **Project Overview**
-- Performed sales
+📌 Interactive sales dashboard exploring customer purchasing behavior, top-selling products, and revenue trends.
 
+---
+
+## 📞 Call Center Analysis
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+
+📌 Operational dashboard measuring customer satisfaction, response time, call volume, and agent performance.
+
+---
+
+## 🚗 Road Accident Analysis
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+
+📌 Road safety analytics dashboard identifying accident hotspots, casualty trends, and yearly comparisons.
+
+---
+
+## 📈 Market Flow Analytics
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+
+📌 Tableau dashboard visualizing market flow, sales performance, customer segments, and business trends.
+
+---
+
+## 🛍️ Retail Analytics
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+
+📌 Retail analytics dashboard tracking revenue, profit, sales performance, and category insights.
+
+---
+
+## 📡 Nova Telecom Dashboard
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/DAX-512BD4?style=flat-square"/>
+
+📌 Marketing performance dashboard analyzing telecom KPIs, customer acquisition, and campaign effectiveness.
+
+---
 
 ## 📤 Let's Connect
 

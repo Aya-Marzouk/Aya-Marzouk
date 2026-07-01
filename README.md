@@ -33,22 +33,115 @@ Passionate about transforming data into meaningful insights and building interac
 
 ---
 
-## 📁 Featured Projects
+# 🚀 Featured Projects
 
-### ☕ Nespresso Sales Case Study
-- End-to-end sales analysis with interactive dashboards.
-- **Tech:** Excel • Data Cleaning • Visualization
+<table>
+<tr>
+<td width="50%">
 
-### 🏦 Bank Misr Analytics Task
-- Financial KPI Dashboard using Power BI.
-- **Tech:** Power BI • DAX • Data Modeling
+### ☕ Nestlé Nespresso Sales Dashboard
+📊 **Tools:** Power BI • SQL • Excel • DAX
 
-### 🛰️ Nova Telecom Dashboard
-- Telecom dashboard with customer insights and KPI tracking.
-- **Tech:** Power BI • Business Intelligence
+- 📈 Built an interactive sales dashboard to monitor KPIs.
+- 🛒 Analyzed product performance and customer purchasing trends.
+- 💡 Delivered business insights to support strategic decisions.
+
+</td>
+
+<td width="50%">
+
+### 🏦 Banque Misr Financial Analytics
+📊 **Tools:** Power BI • SQL • Data Modeling
+
+- 💰 Developed financial KPI dashboards.
+- 📉 Monitored revenue, expenses, and profitability.
+- 📊 Created executive-level reports for decision making.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ☕ Coffee Sales Analysis
+📊 **Tools:** Excel • Power BI • SQL
+
+- 📦 Analyzed sales across products and regions.
+- 📈 Tracked monthly sales trends and revenue growth.
+- 🎯 Identified top-performing products.
+
+</td>
+
+<td width="50%">
+
+### 📞 Call Center Performance Analysis
+📊 **Tools:** Power BI • Excel
+
+- ☎️ Evaluated agent performance.
+- ⏱️ Analyzed call duration and response time.
+- 😊 Monitored customer satisfaction KPIs.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🚗 Road Accident Analysis
+📊 **Tools:** Power BI • Excel
+
+- 🚦 Explored accident trends and high-risk locations.
+- 📍 Identified accident hotspots.
+- 📉 Built interactive safety dashboards.
+
+</td>
+
+<td width="50%">
+
+### 📈 Market Flow Analytics
+📊 **Tools:** Power BI • SQL
+
+- 📊 Tracked market movement and performance.
+- 💹 Analyzed business growth trends.
+- 📌 Built KPI dashboards for market insights.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🛍️ Retail Analytics Dashboard
+📊 **Tools:** Power BI • SQL • Excel
+
+- 🛒 Analyzed retail sales performance.
+- 📦 Evaluated product categories.
+- 📈 Built dashboards for sales and profit analysis.
+
+</td>
+
+<td width="50%">
+
+### 📡 Nova Telecom Marketing Dashboard
+📊 **Tools:** Power BI • DAX • SQL
+
+- 📱 Designed a telecom marketing dashboard.
+- 📊 Monitored campaign performance.
+- 🎯 Tracked customer acquisition and KPIs.
+
+</td>
+</tr>
+</table>
 
 ---
 
+<div align="center">
+
+### ✨ More Projects Coming Soon...
+
+🚀 Always building new dashboards • 📊 Exploring data • 💡 Solving business problems
+
+</div>
 ## 📤 Let's Connect
 
 <p align="left">

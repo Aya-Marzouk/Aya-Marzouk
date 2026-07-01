@@ -14,10 +14,6 @@ Passionate about building interactive dashboards, optimizing business performanc
 and enabling smarter data-driven decision-making.
 </p>
 
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aya-Marzouk&bg_color=0d1117&color=C026D3&line=A855F7&point=F472B6&hide_border=true"/>
-
 </div>
 
 <p align="center">
@@ -29,6 +25,9 @@ that empower businesses to make smarter decisions.
 Specialized in <strong>SQL</strong>, <strong>Power BI</strong>, <strong>Tableau</strong>,
 <strong>Data Modeling</strong>, and <strong>Business Intelligence</strong>.
 </p>
+
+---
+
 ## 🛠️ Tech Stack & Core Skills
 
 ### 📊 Business Intelligence & Visualization
@@ -59,32 +58,36 @@ Specialized in <strong>SQL</strong>, <strong>Power BI</strong>, <strong>Tableau<
 
 ---
 
-### 📤 Let's Connect!
+## 📤 Let's Connect!
+
 <p align="left">
   <a href="mailto:aya.ibrahim.official.2@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
-  </a> &nbsp;
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/aya-a7med/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
   </a>
 </p>
+
 ---
+
 ## 🛠 Top Technical Skills & Tools
 
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver,excel,tableau,python,pandas,numpy,seaborn,jupyter,vscode,git&perline=10" style="height:105px;"/> 
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver,excel,tableau,python,pandas,numpy,seaborn,jupyter,vscode,git&perline=10" style="height:105px;"/>
 </p>
 
-
 ## 📊 Data & Business Intelligence
+
 <p align="left">
   <img src="https://img.shields.io/badge/Power%20BI-Advanced-F2C811?style=flat&logo=powerbi&logoColor=black">
   <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white">
   <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white">
 </p>
 
-
 ## 🐍 Python & Data Analysis
+
 <p align="left">
   <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Pandas-Intermediate-150458?style=flat&logo=pandas&logoColor=white">
@@ -92,16 +95,16 @@ Specialized in <strong>SQL</strong>, <strong>Power BI</strong>, <strong>Tableau<
   <img src="https://img.shields.io/badge/Seaborn-Visualization-5A9BD4?style=flat">
 </p>
 
-
 ## 🗄 Data Engineering
+
 <p align="left">
   <img src="https://img.shields.io/badge/SQL%20Server-Experienced-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white">
   <img src="https://img.shields.io/badge/ETL-Data%20Pipeline-blue?style=flat">
   <img src="https://img.shields.io/badge/Data%20Warehouse-Modeling-orange?style=flat">
 </p>
 
-
 ## 📈 Analytics & Business Skills
+
 <p align="left">
   <img src="https://img.shields.io/badge/Data%20Cleaning-Experienced-FF6B6B?style=flat">
   <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat">
@@ -109,12 +112,10 @@ Specialized in <strong>SQL</strong>, <strong>Power BI</strong>, <strong>Tableau<
   <img src="https://img.shields.io/badge/Data%20Storytelling-Advanced-45B7D1?style=flat">
 </p>
 
-
 ## 🎨 Design & Productivity
+
 <p align="left">
   <img src="https://img.shields.io/badge/Machine%20Learning-Intermediate-blue?style=flat&logo=scikit-learn">
   <img src="https://img.shields.io/badge/Figma-Design-F24E1E?style=flat&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/Draw.io-Diagrams-FF9900?style=flat&logo=diagrams.net&logoColor=white">
 </p>
-
-

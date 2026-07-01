@@ -1,10 +1,4 @@
-<div align="center">
-
-# Hi, I'm Aya Ahmed 👋
-
-<img src="https://readme-typing-svg.demolab.com?font=Manrope&weight=400&size=23&duration=4200&pause=1500&color=D946EF&center=true&vCenter=true&width=800&height=50&lines=Data+Analyst+•+Business+Intelligence;Power+BI+•+SQL+•+Tableau;Turning+Data+Into+Business+Insights"/>
-
-</div>
+<div align="center"> <h1> Hi, I'm <b>Aya Ahmed</b> 👋 </h1> <img src="https://readme-typing-svg.demolab.com?font=Manrope&weight=400&size=23&duration=4200&pause=1500&color=D946EF&center=true&vCenter=true&width=800&height=50&lines=Data+Analyst+%E2%80%A2+Business+Intelligence;Power+BI+%E2%80%A2+SQL+%E2%80%A2+Tableau;Turning+Data+Into+Business+Insights"/> </div>
 
 ## 🛠️ Tech Stack & Core Skills
 

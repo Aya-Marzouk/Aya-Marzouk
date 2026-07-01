@@ -36,75 +36,98 @@ Passionate about transforming data into meaningful insights and building interac
 
 <p align="center">
 💼 <b>Real-World Data Analytics & Business Intelligence Projects</b><br>
-<sub>Power BI • SQL • Tableau • Excel • Data Visualization</sub>
+<sub>Power BI • Tableau • Excel • SQL • Data Cleaning • Data Modeling</sub>
 </p>
 
 ---
 
-## ☕ Nestlé Nespresso Dashboard
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/> <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
-
-📌 End-to-end sales analytics dashboard analyzing revenue, products, customer behavior, and business KPIs with interactive visualizations.
-
----
+# 📊 Power BI Projects
 
 ## 🏦 Banque Misr Dashboard
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
-
-📌 Financial dashboard for monitoring revenue, profitability, and executive KPIs using advanced DAX and data modeling.
-
----
-
-## ☕ Coffee Sales Analysis
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
-
-📌 Interactive sales dashboard exploring customer purchasing behavior, top-selling products, and revenue trends.
-
----
-
-## 📞 Call Center Analysis
-
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Cleaning-00B894?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data%20Modeling-6A5ACD?style=flat-square"/>
 
-📌 Operational dashboard measuring customer satisfaction, response time, call volume, and agent performance.
-
----
-
-## 🚗 Road Accident Analysis
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-
-📌 Road safety analytics dashboard identifying accident hotspots, casualty trends, and yearly comparisons.
-
----
-
-## 📈 Market Flow Analytics
-
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
-
-📌 Tableau dashboard visualizing market flow, sales performance, customer segments, and business trends.
-
----
-
-## 🛍️ Retail Analytics
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
-
-📌 Retail analytics dashboard tracking revenue, profit, sales performance, and category insights.
+📌 Built an interactive financial dashboard to monitor KPIs, revenue, and business performance using Power BI.
 
 ---
 
 ## 📡 Nova Telecom Dashboard
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/DAX-512BD4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Cleaning-00B894?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data%20Modeling-6A5ACD?style=flat-square"/>
 
-📌 Marketing performance dashboard analyzing telecom KPIs, customer acquisition, and campaign effectiveness.
+📌 Marketing performance dashboard with interactive KPIs and customer insights.
 
 ---
 
+## 🛍️ Retail Analytics
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Cleaning-00B894?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data%20Modeling-6A5ACD?style=flat-square"/>
+
+📌 Retail business dashboard analyzing sales, profit, categories, and business KPIs.
+
+---
+
+# 📈 Tableau Project
+
+## 📊 Market Flow Analytics
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Cleaning-00B894?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data%20Modeling-6A5ACD?style=flat-square"/>
+
+📌 Interactive Tableau dashboard for market flow analysis and business trends.
+
+---
+
+# 📑 Excel Projects
+
+## ☕ Nestlé Nespresso Dashboard
+
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Cleaning-00B894?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data%20Modeling-6A5ACD?style=flat-square"/>
+
+📌 End-to-end sales analysis with dashboards, KPIs, and customer insights.
+
+---
+
+## ☕ Coffee Sales Analysis
+
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Cleaning-00B894?style=flat-square"/>
+
+📌 Sales performance dashboard analyzing products, customers, and revenue trends.
+
+---
+
+## 📞 Call Center Analysis
+
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Cleaning-00B894?style=flat-square"/>
+
+📌 Call center performance analysis focusing on customer satisfaction and agent efficiency.
+
+---
+
+## 🚗 Road Accident Analysis
+
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Cleaning-00B894?style=flat-square"/>
+
+📌 Road accident dashboard highlighting accident patterns and safety insights.
+
+---
 ## 📤 Let's Connect
 
 <p align="left">

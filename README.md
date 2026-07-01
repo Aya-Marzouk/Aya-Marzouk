@@ -117,14 +117,4 @@ Specialized in <strong>SQL</strong>, <strong>Power BI</strong>, <strong>Tableau<
   <img src="https://img.shields.io/badge/Draw.io-Diagrams-FF9900?style=flat&logo=diagrams.net&logoColor=white">
 </p>
 
----
 
-## 🚀 Featured Projects
-
----
-
-saleh-01&theme=github_dark" height="176"/> &nbsp;
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohamed-saleh-01&theme=github_dark" height="176"/>
-</p>
-
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamed-saleh-01&theme=github_dark)

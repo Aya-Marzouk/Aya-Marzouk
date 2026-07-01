@@ -1,25 +1,22 @@
-<h1 align="center">Hi there, I'm Aya Ahmed 👋</h3>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;SQL+%7C+Excel+%7C+Power+BI+%7C+Python;From+Raw+Data+to+Business+Impact" alt="Typing SVG" />
-</div>
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=2500&pause=1200&color=A855F7&center=true&vCenter=true&multiline=true&width=900&height=140&lines=Turning+Raw+Data+Into+Business+Value;Building+Interactive+Power+BI+Dashboards;Transforming+Data+Into+Actionable+Insights;Helping+Businesses+Make+Smarter+Decisions" />
+# 👋 Hello, I'm
+
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=46&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=500&lines=AYA+AHMED"/>
+</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=2200&pause=700&color=A855F7&center=true&vCenter=true&width=750&lines=Data+Analyst;Business+Intelligence+Analyst;Power+BI+Developer;SQL+Developer;Data+Visualization;Dashboard+Designer"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,24,30"/>
+
+<br><br>
+
+💜 **Turning complex data into strategic business decisions through analytics, visualization, and storytelling.**
 
 </div>
-
-<br>
-
-<p align="center" width="80%">
-
-I'm <b>Aya Ahmed</b>, a passionate <b>Data Analyst</b> specializing in
-Business Intelligence, SQL, Power BI, Tableau, and Data Modeling.
-I transform complex datasets into interactive dashboards and actionable insights
-that empower organizations to make smarter, data-driven decisions.
-
-</p>
 
 ---
 ## 🛠 Top Technical Skills & Tools

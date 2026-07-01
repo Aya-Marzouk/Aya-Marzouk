@@ -1,69 +1,67 @@
 <div align="center">
 
-# Hi, I'm <b>Aya Ahmed</b> 👋
+# Hi, I'm Aya Ahmed 👋
 
-https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Data+Analyst;Business+Analyst;SQL+%7C+Power+BI+%7C+Tableau+%7C+Excel;Turning+Data+Into+Business+Insights
-<p align="center">
-Passionate about transforming data into meaningful insights and building interactive dashboards that support better business decisions.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&repeat=true&width=700&lines=Data+Analyst;Business+Analyst;SQL+%7C+Power+BI+%7C+Tableau+%7C+Excel;Turning+Data+Into+Business+Insights" alt="Typing SVG" />
+
+### 📊 Data Analyst | 💼 Business Analyst
+
+Passionate about transforming raw data into meaningful insights through **SQL**, **Power BI**, **Tableau**, and **Excel**.
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,vscode" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack & Core Skills
+# 🛠️ Tech Stack & Core Skills
 
-### 📊 Business Intelligence & Visualization
-- **Power BI** <img src="https://img.shields.io/badge/Advanced-F2C811?style=flat-square&logo=powerbi&logoColor=black">
-- **Tableau** <img src="https://img.shields.io/badge/Intermediate-E97627?style=flat-square&logo=tableau&logoColor=white">
-- **Excel** <img src="https://img.shields.io/badge/Advanced-217346?style=flat-square&logo=microsoft-excel&logoColor=white">
+### 📊 Business Intelligence
+- Power BI
+- Tableau
+- Excel
+- SQL Server
+- Data Modeling
+- DAX
+- ETL
 
 ### 🐍 Data Analytics
-- **SQL Server**
-- **Python**
-- **Pandas**
-- **NumPy**
-- **Seaborn**
-- **Power Query**
-- **ETL**
-- **Star Schema**
-- **Data Modeling**
-- **KPI Development**
+- Python
+- Pandas
+- NumPy
+- Seaborn
+- Jupyter Notebook
 
 ---
 
-## 📁 Featured Projects
+# 🚀 Featured Projects
 
 ### ☕ Nespresso Sales Case Study
-- End-to-end sales analysis with interactive dashboards.
-- **Tech:** Excel • Data Cleaning • Visualization
+Interactive sales dashboard using Excel and Power BI.
 
 ### 🏦 Bank Misr Analytics Task
-- Financial KPI Dashboard using Power BI.
-- **Tech:** Power BI • DAX • Data Modeling
+Financial KPI Dashboard with Power BI & DAX.
 
 ### 🛰️ Nova Telecom Dashboard
-- Telecom dashboard with customer insights and KPI tracking.
-- **Tech:** Power BI • Business Intelligence
+Customer analytics dashboard with Power BI.
 
 ---
 
-## 📤 Let's Connect
+# 📫 Connect With Me
 
 <p align="left">
-  <a href="mailto:aya.ibrahim.official.2@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="mailto:aya.ibrahim.official.2@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-  <a href="https://www.linkedin.com/in/aya-a7med/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 💻 Tools & Technologies
-
-<p align="left">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver,powerbi,excel,tableau,python,pandas,numpy,jupyter,vscode,git&perline=10"/>
-</p>
+<a href="https://www.linkedin.com/in/aya-a7med/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?

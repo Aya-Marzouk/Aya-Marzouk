@@ -6,16 +6,14 @@
 
 <br>
 
-<p align="center" width="700">
+<p align="center">
+I transform complex data into clear, actionable business insights through
+<strong>SQL</strong>, <strong>Power BI</strong>, and <strong>Tableau</strong>.
+</p>
 
-Passionate about transforming <b>raw data</b> into meaningful insights through
-<b>SQL</b>, <b>Power BI</b>, and <b>Tableau</b>.
-
-<br><br>
-
-I build interactive dashboards, optimize business performance, and deliver
-data-driven solutions that support smarter decision-making.
-
+<p align="center">
+Passionate about building interactive dashboards, optimizing business performance,
+and enabling smarter data-driven decision-making.
 </p>
 
 <br>

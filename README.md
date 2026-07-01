@@ -2,8 +2,6 @@
 
 # Hi, I'm <b>Aya Ahmed</b> 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Manrope&weight=400&size=24&duration=3500&pause=1200&color=C026D3&center=true&vCenter=true&width=850&lines=Data+Analyst+•+Business+Intelligence;Power+BI+Developer+•+SQL+Developer;Data+Visualization+•+Dashboard+Design;Turning+Data+Into+Business+Insights"/>
-
 <br>
 
 <p align="center">
@@ -125,18 +123,7 @@ Specialized in <strong>SQL</strong>, <strong>Power BI</strong>, <strong>Tableau<
 
 ---
 
-### 📤 My Social Accounts
-  <p align="left">
-    <a href="mailto:mohamed284saleh@gmail.com">
-      <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png/revision/latest/thumbnail/width/360/height/360?cb=20201214214241" height="50"/></a> &nbsp;
-    <a href="https://linkedin.com/in/mohamed-sale7">
-      <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="50"/></a> &nbsp;
-  </p>
-
----
-
-<p>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohamed-saleh-01&theme=github_dark" height="176"/> &nbsp;
+saleh-01&theme=github_dark" height="176"/> &nbsp;
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohamed-saleh-01&theme=github_dark" height="176"/>
 </p>
 
